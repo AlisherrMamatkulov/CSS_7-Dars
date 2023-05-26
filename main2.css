@@ -1,0 +1,154 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.menu{
+    margin: 0;
+    padding: 0;
+}
+.menu-item{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    list-style: none;
+    display: inline-block;
+    background-image: url("rasmlar/06.jpg");
+    background-repeat: no-repeat;
+    margin: 40px;
+}
+.menu-link{
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    width:0;
+    height: 0;
+    text-align: center;
+    line-height: 10px;
+    margin-bottom: +25px;
+    margin-left: +25px;
+}
+.menu-link a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.menu{
+    margin: 0;
+    padding: 0;
+}
+.menu-item-2{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    list-style: none;
+    display: inline-block;
+    background-image: url("rasmlar/07.jpg");
+    background-repeat: no-repeat;
+    margin: 40px;
+}
+.menu-link-2{
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    width:0;
+    height: 0;
+    text-align: center;
+    line-height: 10px;
+    margin-bottom: +25px;
+    margin-left: +25px;
+}
+
+.menu-link-2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+
+.menu{
+    margin: 0;
+    padding: 0;
+}
+.menu-item-3{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    list-style: none;
+    display: inline-block;
+    background-image: url("rasmlar/08.jpg");
+    background-repeat: no-repeat;
+    margin: 40px;
+}
+.menu-link-3{
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    width:0;
+    height: 0;
+    text-align: center;
+    line-height: 10px;
+    margin-bottom: +15px;
+    margin-left: +15px;
+}
+.menu-link-3 a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.menu-item-4{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    list-style: none;
+    display: inline-block;
+    background-image: url("rasmlar/07.jpg");
+    background-repeat: no-repeat;
+    margin: 40px;
+}
+.menu-link-4{
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    width:0;
+    height: 0;
+    text-align: center;
+    line-height: 10px;
+    margin-bottom: +25px;
+    margin-left: +25px;
+}
+.menu-link-4 a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+
+.menu-item-5{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    list-style: none;
+    display: inline-block;
+    background-image: url("rasmlar/09.jpg");
+    background-repeat: no-repeat;
+    margin: 40px;
+}
+.menu-link-5{
+    position: absolute;
+    left: -20px;
+    top: -20px;
+    width:0;
+    height: 0;
+    text-align: center;
+    line-height: 10px;
+    margin-bottom: +25px;
+    margin-left: +25px;
+}
+.menu-link-5 a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
